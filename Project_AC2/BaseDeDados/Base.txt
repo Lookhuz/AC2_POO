@@ -1,0 +1,89 @@
+BasedeDados.Endereco@66a29884
+
+
+nome: Diego
+Data de Cadastro: 11062023
+CPF: 154851
+Quantidade de Parcelas: 2
+BasedeDados.Endereco@66a29884
+
+
+nome: a
+Data de Cadastro: 1
+CPF: 1
+Quantidade de Parcelas: 1
+BasedeDados.Endereco@66a29884
+
+
+nome: 1
+Data de Cadastro: 1
+CPF: 1
+Quantidade de Parcelas: 1
+Rua do Cliente: 3Número do Cliente: 3Bairro do Cliente: 3CEP do Cliente: 3Cidade do Cliente: 3Estado do Cliente: 3
+
+
+nome: 3
+Data de Cadastro: 3
+CPF: 3
+Quantidade de Parcelas: 3
+
+
+nome: 1
+Data de Cadastro: 1
+CPF: 1
+Quantidade de Parcelas: 1
+
+
+nome: 1
+Data de Cadastro: 1
+CPF: 1
+Quantidade de Parcelas: 1
+
+
+nome: null
+Data de Cadastro: null
+CPF: null
+Quantidade de Parcelas: 0
+
+
+nome: null
+Data de Cadastro: null
+CPF: null
+Quantidade de Parcelas: 0
+
+
+nome: null
+Data de Cadastro: null
+CPF: null
+Quantidade de Parcelas: 0
+
+
+nome: 1
+Data de Cadastro: 1
+CPF: 1
+Quantidade de Parcelas: 1
+
+
+nome: 1
+Data de Cadastro: 1
+CPF: 1
+Quantidade de Parcelas: 1
+Item{quantidade=0, NomeProduto='null', valorUnitario=0.0, valorTotal=0.0, data='null', id=0, dataAtual=2023-11-11}
+Item{quantidade=0, NomeProduto='null', valorUnitario=0.0, valorTotal=0.0, data='null', id=0, dataAtual=2023-11-11}
+Item{quantidade=0, NomeProduto='null', valorUnitario=0.0, valorTotal=0.0, data='null', id=0, dataAtual=2023-11-11}
+Item{quantidade=0, NomeProduto='null', valorUnitario=0.0, valorTotal=0.0, data='null', id=0, dataAtual=2023-11-11}
+Item{quantidade=0, NomeProduto='null', valorUnitario=0.0, valorTotal=0.0, data='null', id=0, dataAtual=2023-11-11}
+Item{quantidade=0, NomeProduto='null', valorUnitario=0.0, valorTotal=0.0, data='null', id=0, dataAtual=2023-11-11}
+Item{quantidade=2, NomeProduto='detergente', valorUnitario=2.0, valorTotal=4.0, data='null', id=0, dataAtual=2023-11-11}
+
+
+nome: null
+Data de Cadastro: null
+CPF: null
+Quantidade de Parcelas: 0
+
+
+nome: a
+Data de Cadastro: 1
+CPF: 10
+Quantidade de Parcelas: 1

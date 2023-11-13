@@ -1,0 +1,4 @@
+pf,teste3,1,1,1,a,1,a,1,a,apf,teste4,1,1,1,a,1,a,1,a,apf,teste4,1,1,1,a,1,a,1,a,a
+pf,a,1,1,1,a,1,a,1,a,a
+pf,LucasSilveira,13112023,1234567891,3,ComedorDeCurioso,6969,Centro,12322145,SaoRoque,SP
+pf,DiogoFrancia,13112023,1231231231,1,Salve,44,Centro,12123123,Boituva,SP
